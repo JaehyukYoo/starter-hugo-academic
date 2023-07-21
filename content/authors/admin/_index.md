@@ -30,11 +30,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - display:
-      header: false
-    link: https://www.google.com
-    icon_pack: fab
-    icon: user
 organizations:
   - name: Seoul National University
     url: https://www.snu.ac.kr/
