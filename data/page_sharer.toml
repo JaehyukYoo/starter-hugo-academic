@@ -2,6 +2,14 @@
 # Documentation: https://wowchemy.com/docs/hugo-tutorials/page-sharer/
 
 [[buttons]]
+  id = "user-solid"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "user"
+  icon_pack = "fab"
+  icon = "user"
+  enable = true
+
+[[buttons]]
   id = "twitter"
   url = "https://twitter.com/intent/tweet?url={url}&text={title}"
   title = "Twitter"
