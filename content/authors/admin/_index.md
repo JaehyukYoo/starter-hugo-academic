@@ -32,17 +32,15 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: Seoul National University
+    url: https://www.snu.ac.kr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - year: 2019
+      institution: Daegu Catholic University
+      course: BS in English Education
+    - year: 2023
+      institution: Seoul National University
+      course: MS in Educational Technology
 superuser: true
 status:
   icon: ☕️
