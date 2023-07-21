@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/hugo-tutorials/page-sharer/
 
 [[buttons]]
-  id = "user-solid"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  id = "user"
+  url = "https://fontawesome.com/icons/heart?f=classic&s=solid"
   title = "user"
   icon_pack = "fab"
   icon = "user"
