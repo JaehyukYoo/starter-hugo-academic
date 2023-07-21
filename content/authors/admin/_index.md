@@ -32,9 +32,9 @@ social:
     link: uploads/resume.pdf
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: fas
     icon: user-solid
-    link: https://wowchemy.com/docs/getting-started/page-builder/#icons
+    link: https://www.google.com/search?q=%EC%95%A8%EB%B2%84%ED%8A%B8+%EB%B0%98%EB%91%90%EB%9D%BC&ei=pJy5ZN3QNrWB2roPj_W-sAw&ved=0ahUKEwjdssyzk56AAxW1gFYBHY-6D8YQ4dUDCA8&uact=5&oq=%EC%95%A8%EB%B2%84%ED%8A%B8+%EB%B0%98%EB%91%90%EB%9D%BC&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-yVqOuyhO2KuCDrsJjrkZDrnbwyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIGEAAYHhgPMggQABgFGB4YDzIUEC4YgAQYlwUY3AQY3gQY4ATYAQFIjQ1Q4QNY4QNwAXgBkAEAmAFzoAFzqgEDMC4xuAEDyAEA-AEC-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgq6BgYIARABGBQ&sclient=gws-wiz-serp
 organizations:
   - name: Seoul National University
     url: https://www.snu.ac.kr/
