@@ -30,17 +30,22 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - display:
+      header: false
+    icon_pack: fab
+    icon: user-solid
+    link: https://wowchemy.com/docs/getting-started/page-builder/#icons
 organizations:
   - name: Seoul National University
     url: https://www.snu.ac.kr/
 education:
   courses:
-    - year: 2019
-      institution: Daegu Catholic University
-      course: BS in English Education
     - year: 2023
       institution: Seoul National University
       course: MS in Educational Technology
+    - year: 2019
+      institution: Daegu Catholic University
+      course: BS in English Education
 superuser: true
 status:
   icon: ☕️
