@@ -32,7 +32,7 @@ social:
     link: uploads/resume.pdf
   - display:
       header: false
-    link: www.google.com
+    link: https://www.google.com/
     icon_pack: fab
     label: ""
     icon: user-solid
