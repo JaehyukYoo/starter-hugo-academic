@@ -33,9 +33,8 @@ social:
   - display:
       header: false
     link: https://www.google.com/
+    icon: user
     icon_pack: fab
-    label: ""
-    icon: user-solid
 organizations:
   - name: Seoul National University
     url: https://www.snu.ac.kr/
