@@ -33,7 +33,7 @@ social:
   - display:
       header: false
     icon_pack: fab
-    icon: WhatsApp
+    icon: whatsapp
     link: https://www.google.com/
 organizations:
   - name: Seoul National University
