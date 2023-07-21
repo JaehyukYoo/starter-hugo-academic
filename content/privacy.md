@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: © 2023 by Jaehyuk Yoo
 date: 2023-07-21T01:06:07.191Z
 draft: false
 share: false
