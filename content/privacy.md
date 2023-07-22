@@ -9,4 +9,4 @@ header:
   caption: ""
   image: ""
 ---
-© 2023 by Jaehyuk Yoo
+Copyright © 2023 Jaehyuk Yoo
