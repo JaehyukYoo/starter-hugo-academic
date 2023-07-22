@@ -46,6 +46,9 @@ education:
     - year: 2019
       institution: Daegu Catholic University
       course: BS in English Education
+    - course: BS in International Studies
+      institution: Hankuk University of Foreign Studies
+      year: 2009
 superuser: true
 status:
   icon: ☕️
