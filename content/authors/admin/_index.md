@@ -48,7 +48,7 @@ education:
       course: BS in English Education
     - course: BS in International Studies
       institution: Hankuk University of Foreign Studies
-      year: 2009
+      year: 2010
 superuser: true
 status:
   icon: ☕️
