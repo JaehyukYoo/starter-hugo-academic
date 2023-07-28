@@ -1,7 +1,7 @@
 ---
 title: Jaehyuk Yoo
 role: Researcher, Center for Innovation of Future Education, SNU
-avatar_filename: avatar.jpg
+avatar_filename: 유재혁-프로필.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
