@@ -2,8 +2,7 @@
 title: Jaehyuk Yoo
 role: Researcher, Center for Innovation of Future Education, SNU
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Cooperative Learning
   - Human-AI Collaboration
