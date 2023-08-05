@@ -8,7 +8,7 @@ interests:
   - Natural Language Processing
   - Social Learning
   - Human-AI Collaboration
-  - Computer-Supported Cooperative Work
+  - Computer-Supported Collaborative Learning
 social: []
 organizations:
   - name: Seoul National University
