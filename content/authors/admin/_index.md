@@ -4,7 +4,7 @@ role: Researcher, Center for Innovation of Future Education, SNU
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Cooperative Learning
+  - Social Learning
   - Human-AI Collaboration
   - Natural Language Processing
   - Computer-Supported Cooperative Work
