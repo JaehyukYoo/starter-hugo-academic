@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cooperative Learning
+  - Human-AI Collaboration
+  - Natural Language Processing
+  - Computer-Supported Cooperative Work
 social: []
 organizations:
   - name: Seoul National University
@@ -31,6 +32,7 @@ highlight_name: true
 first_name: Alice
 email: jhyoo@snu.ac.kr
 ---
+I completed my Master's Degree in Educational Technologies from Seoul National University (SNU), advised by Dr. Cheolil Lim. I currently work as a graduate research assistant at the Center for Innovation of Future Education in SNU. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My current research focuses on the design and effectiveness of conversational AI technologies to serve as learning companions, and how AI affects learners' social interactions and learning processes. In addition, I explore learners' understanding of AI and develop programs to foster their AI literacy.
 {style="text-align: justify;"}
