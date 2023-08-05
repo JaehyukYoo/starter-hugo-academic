@@ -32,7 +32,7 @@ highlight_name: true
 first_name: Alice
 email: jhyoo@snu.ac.kr
 ---
-I completed my Master's Degree in Educational Technologies from Seoul National University (SNU), advised by Dr. Cheolil Lim. I currently work as a graduate research assistant at the Center for Innovation of Future Education in SNU. 
+I completed my Master's Degree in Educational Technology from Seoul National University (SNU), advised by Dr. Cheolil Lim. I currently work as a graduate research assistant at the Center for Innovation of Future Education in SNU. 
 
 My research interest lies at the intersection of classroom technology integration, instructional design, curriculum development, social learning communities, and teacher technology training.
 
