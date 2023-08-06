@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Instructional Design
-  - Natural Language Processing
+  - Question-Based Learning
   - Social Learning
   - Human-AI Collaboration
   - Computer-Supported Collaborative Learning
@@ -34,7 +34,7 @@ email: jhyoo@snu.ac.kr
 ---
 I completed my Master's Degree in Educational Technology from Seoul National University (SNU), advised by Dr. Cheolil Lim. I currently work as a graduate research assistant at the Center for Innovation of Future Education in SNU. 
 
-My research interest lies at the intersection of classroom technology integration, instructional design, curriculum development, social learning communities, and teacher technology training. 
+My research interest lies at the intersection of classroom technology integration, instructional design, curriculum development, social learning communities, student-generated questions and teacher technology training.
 
 My current research focuses on the design and effectiveness of conversational AI technologies to serve as learning companions, and how AI affects learners' social interactions and learning processes. In addition, I explore learners' understanding of AI and develop programs to foster their AI literacy.
 {style="text-align: justify;"}
